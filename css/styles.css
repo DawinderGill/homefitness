@@ -187,17 +187,17 @@ a.white {
 .btn-outline-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #fe3370;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #00c9db;
+	color: #fe3370;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
 
 .btn-outline-reg:hover {
-	background-color: #00c9db;
+	background-color: #fe3370;
 	color: #fff;
 	text-decoration: none;
 }
