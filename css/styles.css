@@ -89,6 +89,9 @@ h2 {
 }
 
 h3 {
+	background: -webkit-linear-gradient(#fc8b4e, #fe3370);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
 	color: #f1f1f8;
 	font: 700 1.75rem/2.125rem "Montserrat", sans-serif;
 }
@@ -1327,6 +1330,9 @@ input[type='checkbox'] {
 }
 
 .counter #counter .counter-value {
+	background: -webkit-linear-gradient(#fc8b4e, #fe3370);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
 	color: #f1f1f8;
 	font: 700 3.5rem/4.25rem "Montserrat", sans-serif;	
 	vertical-align: middle;
@@ -1351,6 +1357,9 @@ input[type='checkbox'] {
 }
 
 .form h2 {
+	background: -webkit-linear-gradient(#fc8b4e, #fe3370);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
 	margin-bottom: 1.125rem;
 	text-align: center;
 }
