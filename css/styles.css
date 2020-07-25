@@ -1337,7 +1337,7 @@ input[type='checkbox'] {
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
 	color: #f1f1f8;
-	font: 700 3.5rem/4.25rem "Montserrat", sans-serif;	
+	font: 500 4.5rem/4.25rem "Montserrat", sans-serif;	
 	vertical-align: middle;
 }
 
@@ -1471,7 +1471,7 @@ a.back-to-top {
 }
 
 a:hover.back-to-top {
-	background-color: #36edfd; 
+	background-color: #fe3370; 
 }
 
 
