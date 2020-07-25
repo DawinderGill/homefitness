@@ -158,9 +158,9 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #fe3370;
 	border-radius: 2rem;
-	background-color: #00c9db;
+	background-color: #fe3370;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -1340,7 +1340,7 @@ input[type='checkbox'] {
 
 .counter #counter .counter-info {
 	margin-bottom: 0;
-	color: #00c9db;
+	color: #ffffff;
 	font: 400 0.875rem/1.25rem "Open Sans", sans-serif;
 	vertical-align: middle;
 }
@@ -1375,7 +1375,7 @@ input[type='checkbox'] {
 .form .list-unstyled .fab {
 	margin-right: 0.5rem;
 	font-size: 0.875rem;
-	color: #00c9db;
+	color: #fe3370;
 }
 
 .form .list-unstyled .fa-phone {
@@ -1462,7 +1462,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #00c9db url("../images/up-arrow.png") no-repeat center 47%;
+	background: #fe3370 url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
